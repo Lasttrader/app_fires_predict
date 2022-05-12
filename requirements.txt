@@ -1,0 +1,13 @@
+flask
+pickleshare==0.7.5
+cloudpickle==2.0.0
+Werkzeug==2.0.1
+gunicorn
+numpy
+pandas
+json5==0.9.5
+jsonschema==3.2.0
+python-jsonrpc-server==0.4.0
+ujson==4.0.2
+xgboost==1.4.2
+scikit-learn
